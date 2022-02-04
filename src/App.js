@@ -9,7 +9,7 @@ const App = () => {
         <h1 className='header'>Redux Todo List</h1>
         <div className='sub' style={{display: 'flex', justifyContent: 'space-between'}}>
             <h4>By <a href="https://kiranhart.com">Kiran Hart</a></h4>
-            <a href="https://kiranhart.com">Code</a>
+            <a href="https://github.com/kiranhart/react-todo">Code</a>
         </div>
         <hr />
         <AddTodo />
